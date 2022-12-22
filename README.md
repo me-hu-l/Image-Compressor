@@ -10,3 +10,6 @@ Specifically, you only need to store the RGB values of the 16 selected colors, a
 Following are the results:-
 
 ![Screenshot from 2022-12-22 19-39-36](https://user-images.githubusercontent.com/78522965/209152198-0d91cf49-e412-4bef-97e5-46bce7b0f436.png)
+
+
+Link to the colab file:- https://colab.research.google.com/drive/17C-dm7iO_DKzhRX_kpfqjAmPUuK1Ijj3?usp=sharing
